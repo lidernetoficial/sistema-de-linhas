@@ -1,0 +1,400 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "lines": [
+        {
+          "servidor": "3",
+          "telefone": "(11) 94120-6749",
+          "vencimento": ""
+        },
+        {
+          "servidor": "3",
+          "telefone": "(11) 91618-9662",
+          "vencimento": ""
+        },
+        {
+          "servidor": "3",
+          "telefone": "(11) 97478-4488",
+          "vencimento": ""
+        },
+        {
+          "servidor": "3",
+          "telefone": "(11) 97118-9376",
+          "vencimento": ""
+        },
+        {
+          "servidor": "3",
+          "telefone": "(11) 91020-6118",
+          "vencimento": ""
+        },
+        {
+          "servidor": "3",
+          "telefone": "(21) 96742-8641",
+          "vencimento": ""
+        },
+        {
+          "servidor": "3",
+          "telefone": "(21) 97261-1187",
+          "vencimento": ""
+        },
+        {
+          "servidor": "3",
+          "telefone": "(11) 99761-9679",
+          "vencimento": ""
+        },
+        {
+          "servidor": "2",
+          "telefone": "(11) 96199-7231",
+          "vencimento": ""
+        },
+        {
+          "servidor": "2",
+          "telefone": "(11) 91965-7531",
+          "vencimento": ""
+        }
+      ],
+      "name": "Oliveira",
+      "type": "revendedor"
+    },
+    {
+      "id": 2,
+      "lines": [
+        {
+          "servidor": "3",
+          "telefone": "(11) 91764-0520",
+          "vencimento": ""
+        },
+        {
+          "servidor": "3",
+          "telefone": "(11) 92069-0507",
+          "vencimento": ""
+        },
+        {
+          "servidor": "3",
+          "telefone": "(11) 93718-5417",
+          "vencimento": ""
+        },
+        {
+          "servidor": "3",
+          "telefone": "(11) 93389-4112",
+          "vencimento": ""
+        },
+        {
+          "servidor": "2",
+          "telefone": "(11) 94359-5771",
+          "vencimento": ""
+        },
+        {
+          "servidor": "2",
+          "telefone": "(11) 91195-8075",
+          "vencimento": ""
+        },
+        {
+          "servidor": "2",
+          "telefone": "(11) 96418-0027",
+          "vencimento": ""
+        },
+        {
+          "servidor": "2",
+          "telefone": "(16) 99608-3100",
+          "vencimento": ""
+        },
+        {
+          "servidor": "2",
+          "telefone": "(61) 99682-4421",
+          "vencimento": ""
+        },
+        {
+          "servidor": "2",
+          "telefone": "(61) 99885-6803",
+          "vencimento": ""
+        },
+        {
+          "servidor": "2",
+          "telefone": "(61) 99987-2491",
+          "vencimento": ""
+        },
+        {
+          "servidor": "2",
+          "telefone": "(61) 99624-9465",
+          "vencimento": ""
+        },
+        {
+          "servidor": "4",
+          "telefone": "(11) 97356-2305",
+          "vencimento": ""
+        },
+        {
+          "servidor": "lig",
+          "telefone": "(75) 99872-1390",
+          "vencimento": ""
+        }
+      ],
+      "name": "Ernando",
+      "type": "revendedor"
+    },
+    {
+      "id": 3,
+      "lines": [
+        {
+          "servidor": "3",
+          "telefone": "(11) 95592-6103",
+          "vencimento": ""
+        },
+        {
+          "servidor": "3",
+          "telefone": "(11) 91614-9214",
+          "vencimento": ""
+        },
+        {
+          "servidor": "2",
+          "telefone": "(11) 91893-1137",
+          "vencimento": ""
+        },
+        {
+          "servidor": "lig",
+          "telefone": "(75) 99971-2986",
+          "vencimento": ""
+        },
+        {
+          "servidor": "lig",
+          "telefone": "(75) 99840-6849",
+          "vencimento": ""
+        },
+        {
+          "servidor": "lig",
+          "telefone": "(75) 99970-0595",
+          "vencimento": ""
+        }
+      ],
+      "name": "Flauber",
+      "type": "revendedor"
+    },
+    {
+      "id": 4,
+      "lines": [
+        {
+          "servidor": "2",
+          "telefone": "(11) 99786-5380",
+          "vencimento": ""
+        },
+        {
+          "servidor": "2",
+          "telefone": "(11) 95052-2086",
+          "vencimento": ""
+        },
+        {
+          "servidor": "3",
+          "telefone": "(11) 91831-1846",
+          "vencimento": ""
+        },
+        {
+          "servidor": "4",
+          "telefone": "(11) 91709-9456",
+          "vencimento": ""
+        }
+      ],
+      "name": "Kennidy",
+      "type": "revendedor"
+    },
+    {
+      "id": 5,
+      "lines": [
+        {
+          "servidor": "3",
+          "telefone": "(11) 93374-0099",
+          "vencimento": ""
+        },
+        {
+          "servidor": "3",
+          "telefone": "(11) 92069-0158",
+          "vencimento": ""
+        },
+        {
+          "servidor": "3",
+          "telefone": "(11) 93397-8147",
+          "vencimento": ""
+        },
+        {
+          "servidor": "2",
+          "telefone": "(11) 97220-8714",
+          "vencimento": ""
+        },
+        {
+          "servidor": "3",
+          "telefone": "(11) 97591-3562",
+          "vencimento": ""
+        },
+        {
+          "servidor": "lig",
+          "telefone": "(75) 99822-2355",
+          "vencimento": ""
+        },
+        {
+          "servidor": "lig",
+          "telefone": "(75) 99904-8826",
+          "vencimento": ""
+        }
+      ],
+      "name": "Josefa",
+      "type": "revendedor"
+    },
+    {
+      "id": 6,
+      "lines": [
+        {
+          "servidor": "Direto",
+          "telefone": "(11) 91229-7233",
+          "vencimento": ""
+        },
+        {
+          "servidor": "Direto",
+          "telefone": "(11) 93399-0328",
+          "vencimento": ""
+        },
+        {
+          "servidor": "Direto",
+          "telefone": "(11) 92069-0564",
+          "vencimento": ""
+        },
+        {
+          "servidor": "Direto",
+          "telefone": "(11) 91221-2006",
+          "vencimento": ""
+        },
+        {
+          "servidor": "Direto",
+          "telefone": "(11) 92069-0605",
+          "vencimento": ""
+        },
+        {
+          "servidor": "3",
+          "telefone": "(11) 91031-7202",
+          "vencimento": ""
+        },
+        {
+          "servidor": "3",
+          "telefone": "(11) 93060-6716",
+          "vencimento": ""
+        },
+        {
+          "servidor": "3",
+          "telefone": "(11) 91560-3564",
+          "vencimento": ""
+        },
+        {
+          "servidor": "3",
+          "telefone": "(11) 91715-4361",
+          "vencimento": ""
+        },
+        {
+          "servidor": "3",
+          "telefone": "(21) 99809-3606",
+          "vencimento": ""
+        },
+        {
+          "servidor": "2",
+          "telefone": "(11) 97318-1011",
+          "vencimento": ""
+        },
+        {
+          "servidor": "T",
+          "telefone": "11 98718-0239",
+          "vencimento": ""
+        },
+        {
+          "servidor": "T",
+          "telefone": "11 98718-0998",
+          "vencimento": ""
+        }
+      ],
+      "name": "Luiz Paulo Souza",
+      "type": "revendedor"
+    },
+    {
+      "id": 7,
+      "name": "Teste Backend",
+      "type": "cliente",
+      "lines": [
+        {
+          "servidor": "3",
+          "telefone": "(21) 97107-0149",
+          "vencimento": ""
+        }
+      ]
+    }
+  ],
+  "freeLines": [
+    {
+      "servidor": "3",
+      "telefone": "(21) 99958-8099",
+      "vencimento": ""
+    },
+    {
+      "servidor": "4",
+      "telefone": "(11) 95770-0337",
+      "vencimento": ""
+    },
+    {
+      "servidor": "4",
+      "telefone": "(11) 96189-3504",
+      "vencimento": ""
+    },
+    {
+      "servidor": "T",
+      "telefone": "11 98718-0073",
+      "vencimento": ""
+    },
+    {
+      "servidor": "T",
+      "telefone": "11 98718-0923",
+      "vencimento": ""
+    },
+    {
+      "servidor": "T",
+      "telefone": "11 98718-1193",
+      "vencimento": ""
+    }
+  ],
+  "servers": [
+    {
+      "description": "Servidor principal 2",
+      "id": 1,
+      "name": "2",
+      "status": "ativo"
+    },
+    {
+      "description": "Servidor principal 3",
+      "id": 2,
+      "name": "3",
+      "status": "ativo"
+    },
+    {
+      "description": "Servidor secundário 4",
+      "id": 3,
+      "name": "4",
+      "status": "ativo"
+    },
+    {
+      "description": "Servidor Lig",
+      "id": 4,
+      "name": "lig",
+      "status": "ativo"
+    },
+    {
+      "description": "Servidor T",
+      "id": 5,
+      "name": "T",
+      "status": "ativo"
+    },
+    {
+      "description": "Servidor Direto",
+      "id": 6,
+      "name": "Direto",
+      "status": "ativo"
+    }
+  ],
+  "timestamp": "2025-09-09T23:30:49.732399",
+  "version": "2.0"
+}
